@@ -3,7 +3,7 @@ ul {
     display: flex;
     justify-content: space-around;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 20px;
+    font-size: 14px;
 }
 
 header {
@@ -16,4 +16,7 @@ header a {
     color:rgb(0, 0, 0);
     text-decoration: none;
     text-transform: uppercase;
+}
+.Life-Style {
+    color: #b4ad9e;
 }
