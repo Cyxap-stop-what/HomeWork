@@ -17,6 +17,34 @@ header a {
     text-decoration: none;
     text-transform: uppercase;
 }
+
 .Life-Style {
     color: #b4ad9e;
+}
+
+.text-footer {
+    color: #000000;
+    font-family: serif;
+    box-sizing: border-box;
+    width: 200px;
+    height: 80px;
+    border: 1px solid #212121;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+main,
+header,
+footer {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.section-inner {
+    display: flex;
+    justify-content: space-around;
+}
+
+section {
+    padding: 0px 60px 135px 0px;
 }
